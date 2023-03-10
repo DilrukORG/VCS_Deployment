@@ -16,20 +16,4 @@ environments:
               - displayOnDevportal:
                 deploymentEnvironment:  
                 deploymentVhost:
-          certs:
-              - hostName:
-                alias:
-                path:
-              - hostName:
-                alias:
-                path:
-          mutualSslCerts:
-              - tierName:
-                alias:
-                path:
-              - tierName:
-                alias:
-                path:
-          policies:
-              - 
-              -  
+
